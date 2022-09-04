@@ -10,6 +10,8 @@ September, 2021. I received Google PhD fellowship 2021 on the machine learning t
 
 August, 2019. I will be joining IDS-NUS as a PhD student under the supervision of Dr. Bryan Hooi.
 
+June, 2018. I received my M.S. from University of Chinese Academy of Sciences.
+
 
 ### Publications
 
