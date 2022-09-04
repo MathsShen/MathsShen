@@ -23,13 +23,13 @@ Miao Xiong, Shen Li, Wenjie Feng, Jihai Zhang, Ailin Deng, Bryan Hooi. [Birds of
 
 Yuqiong Qi, Yang Hu, Haibin Wu, Shen Li, Haiyu Mao, Xiaochun Ye, Dongrui Fan, Ninghui Sun. [Tackling Variabilities in Autonomous Driving](https://arxiv.org/abs/2104.10415). arXiv preprint, 2021.
 
-Shen Li, Jianqing Xu, Xiaqing Xu, Pengcheng Shen, Shaoxin Li, Bryan Hooi. [Spherical Confidence Learning for Face Recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Spherical_Confidence_Learning_for_Face_Recognition_CVPR_2021_paper.pdf). 2021 IEEE International Conference on CVPR (Oral, acceptance rate top 4.3%).
+Shen Li, Jianqing Xu, Xiaqing Xu, Pengcheng Shen, Shaoxin Li, Bryan Hooi. [Spherical Confidence Learning for Face Recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Spherical_Confidence_Learning_for_Face_Recognition_CVPR_2021_paper.pdf). 2021 IEEE International Conference on CVPR <span style="color:red"> **(Oral, acceptance rate top 4.3%)** </span>.
 
 Shen Li, Bryan Hooi, Gim Hee Lee. [Identifying through Flows for Recovering Latent Representations](https://arxiv.org/abs/1909.12555). 2020 IEEE International Conference on Learning Representations (ICLR2020).
 
 Shen Li, Xiaqing Xu, Bingpeng Ma, Hong Chang, Xilin Chen. [Learning Hidden States for Visual Tracking](). Preprint, 2018.
 
-Shen Li, Bingpeng Ma, Hong Chang, Shiguang Shan, Xilin Chen. [Continuity-Discrimination Convolutional Neural Network for Visual Object Tracking](https://arxiv.org/abs/2104.08739). 2018 IEEE International Conference on Multimedia and Expo (ICME2018, Oral, Platinum Best Paper Award).
+Shen Li, Bingpeng Ma, Hong Chang, Shiguang Shan, Xilin Chen. [Continuity-Discrimination Convolutional Neural Network for Visual Object Tracking](https://arxiv.org/abs/2104.08739). 2018 IEEE International Conference on Multimedia and Expo **(ICME2018, Oral, Platinum Best Paper Award)**.
 
 Youfang Lin, Shen Li, Sujie Liu, Yuchang Chen. [An Efficient Approach to Mobile Robot Motion Planning in Dynamically Unknown Environments](https://ieeexplore.ieee.org/document/7064583/). IEEE ICARCV 2014: 1764-1770 (Oral).
 
