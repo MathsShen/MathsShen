@@ -1,5 +1,5 @@
-# Shen Li
-## Institute of Data Science, National University of Singapore
+## Shen Li
+### Institute of Data Science, National University of Singapore
 
 I'm a third-year PhD student of National University of Singapore under the supervision of Dr. Bryan Hooi. My research interests include deep generative models, face recognition and visual object detection and tracking. Prior to this, I received my M.S. from University of Chinese Academy of Sciences and my B.S. in computer science from Beijing Jiaotong University.
 
