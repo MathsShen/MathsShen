@@ -12,6 +12,8 @@ August, 2019. I will be joining IDS-NUS as a PhD student under the supervision o
 
 June, 2018. I received my M.S. from University of Chinese Academy of Sciences.
 
+July, 2018. I received IEEE ICME 2018 Platinum Best Paper Award.
+
 
 ### Publications
 
