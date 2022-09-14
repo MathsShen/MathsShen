@@ -1,7 +1,7 @@
 ## Shen Li
 ### Institute of Data Science, National University of Singapore
 
-I'm a third-year PhD student of National University of Singapore under the supervision of [Dr. Bryan Hooi](bhooi.github.io). My research interests include deep generative models, face recognition and visual object detection and tracking. Prior to this, I received my M.S. from University of Chinese Academy of Sciences where I was advised by Prof. Xilin Chen. I received my B.S. in computer science from Beijing Jiaotong University.
+I'm a third-year PhD student of National University of Singapore under the supervision of [Prof. Bryan Hooi](bhooi.github.io). My research interests include deep generative models, face recognition and visual object detection and tracking. Prior to this, I received my M.S. from University of Chinese Academy of Sciences where I was advised by Prof. Xilin Chen. I received my B.S. in computer science from Beijing Jiaotong University.
 
 
 ### News
