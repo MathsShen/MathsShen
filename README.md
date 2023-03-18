@@ -19,6 +19,8 @@ July, 2018. I received [IEEE ICME 2018 Platinum Best Paper Award](http://www.icm
 
 Ailin Deng, Shen Li, Miao Xiong, Zhirui Chen, Bryan Hooi. [Trust but Verify: Using Self-Supervised Probing to Improve Trustworthiness](https://bhooi.github.io/papers/ssprobing_eccv2022.pdf). European Conference on Computer Vision 2022 (ECCV).
 
+Yuqiong Qi, Yang Hu, Haibin Wu, Shen Li, Xiaochun Ye, Dongrui Fan. [A synergistic reinforcement learning-based framework design in driving automation](https://www.sciencedirect.com/science/article/abs/pii/S0045790622002580?via%3Dihub). Computers and Electrical Engineering Volume 101, July 2022, 107989.
+
 Shen Li, Bryan Hooi. [Neural PCA for Flow-Based Representation Learning](https://arxiv.org/abs/2208.10753). International Joint Conference on Artificial Intelligence (IJCAI) 2022.
 
 Miao Xiong, Shen Li, Wenjie Feng, Jihai Zhang, Ailin Deng, Bryan Hooi. [Birds of a Feather Trust Together: Knowing When to Trust a Classifier via Adaptive Neighborhood Aggregation](https://openreview.net/pdf?id=p5V8P2J61u). Transactions on Machine Learning Research (TMLR) 2022.
