@@ -3,21 +3,9 @@
 
 I'm a PhD graduate student from National University of Singapore under the supervision of [Prof. Bryan Hooi](bhooi.github.io). My research interests include deep generative models, face recognition and visual object detection and tracking. Prior to this, I received my M.S. from University of Chinese Academy of Sciences where I was advised by Prof. Xilin Chen. I received my B.S. in computer science from Beijing Jiaotong University.
 
-
-### News
-
-September, 2021. I received [Google PhD fellowship 2021](https://research.google/outreach/phd-fellowship/recipients/?category=2021) on the machine learning track.
-
-August, 2019. I will be joining IDS-NUS as a PhD student under the supervision of Dr. Bryan Hooi.
-
-June, 2018. I received my M.S. from University of Chinese Academy of Sciences.
-
-July, 2018. I received [IEEE ICME 2018 Platinum Best Paper Award](http://www.icme2018.org/conf_awards).
-
-
 ### Publications
 
-**Shen Li***, Jianqing Xu*, Jiaying Wu, Miao Xiong, Ailin Deng, Jiazhen Ji, Yuge Huang, Wenjie Feng, Shouhong Ding, Bryan Hooi. [ID3: IDentity-Preserving-yet-Diversified Diffusion Models for Synthetic Face Recognition](https://arxiv.org/pdf/2409.17576). NeurIPS2023. * indicates equal contribution.
+**Shen Li***, Jianqing Xu*, Jiaying Wu, Miao Xiong, Ailin Deng, Jiazhen Ji, Yuge Huang, Wenjie Feng, Shouhong Ding, Bryan Hooi. [ID3: IDentity-Preserving-yet-Diversified Diffusion Models for Synthetic Face Recognition](https://arxiv.org/pdf/2409.17576). NeurIPS2024. * indicates equal contribution.
 
 Miao Xiong, Ailin Deng, Pang Wei Koh, Jiaying Wu, **Shen Li**, Jianqing Xu, Bryan Hooi. [Proximity-Informed Calibration for Deep Neural Networks](https://arxiv.org/abs/2306.04590v1). NeurIPS2023.
 
@@ -44,6 +32,23 @@ Yuqiong Qi, Yang Hu, Haibin Wu, **Shen Li**, Haiyu Mao, Xiaochun Ye, Dongrui Fan
 **Shen Li**, Bingpeng Ma, Hong Chang, Shiguang Shan, Xilin Chen. [Continuity-Discrimination Convolutional Neural Network for Visual Object Tracking](https://arxiv.org/abs/2104.08739). 2018 IEEE International Conference on Multimedia and Expo **(ICME2018, Oral, Platinum Best Paper Award)**.
 
 Youfang Lin, **Shen Li**, Sujie Liu, Yuchang Chen. [An Efficient Approach to Mobile Robot Motion Planning in Dynamically Unknown Environments](https://ieeexplore.ieee.org/document/7064583/). IEEE ICARCV 2014: 1764-1770 (Oral).
+
+
+### News
+
+November, 2022. I will be joining Huawei in Beijing.
+
+September, 2022. I received my Ph.D. from National University of Singapore.
+
+July, 2022. I received KwaiStar Award.
+
+September, 2021. I received [Google PhD fellowship 2021](https://research.google/outreach/phd-fellowship/recipients/?category=2021) on the machine learning track.
+
+August, 2019. I will be joining IDS-NUS as a PhD student under the supervision of Dr. Bryan Hooi.
+
+June, 2018. I received my M.S. from University of Chinese Academy of Sciences.
+
+July, 2018. I received [IEEE ICME 2018 Platinum Best Paper Award](http://www.icme2018.org/conf_awards).
 
 <!--
 **MathsShen/MathsShen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
