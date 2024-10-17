@@ -1,7 +1,7 @@
 ## Shen Li
 ### Institute of Data Science, National University of Singapore
 
-I'm a third-year PhD student of National University of Singapore under the supervision of [Prof. Bryan Hooi](bhooi.github.io). My research interests include deep generative models, face recognition and visual object detection and tracking. Prior to this, I received my M.S. from University of Chinese Academy of Sciences where I was advised by Prof. Xilin Chen. I received my B.S. in computer science from Beijing Jiaotong University.
+I'm a PhD graduate student from National University of Singapore under the supervision of [Prof. Bryan Hooi](bhooi.github.io). My research interests include deep generative models, face recognition and visual object detection and tracking. Prior to this, I received my M.S. from University of Chinese Academy of Sciences where I was advised by Prof. Xilin Chen. I received my B.S. in computer science from Beijing Jiaotong University.
 
 
 ### News
@@ -16,6 +16,14 @@ July, 2018. I received [IEEE ICME 2018 Platinum Best Paper Award](http://www.icm
 
 
 ### Publications
+
+Shen Li*, Jianqing Xu*, Jiaying Wu, Miao Xiong, Ailin Deng, Jiazhen Ji, Yuge Huang, Wenjie Feng, Shouhong Ding, Bryan Hooi. [ID3: IDentity-Preserving-yet-Diversified Diffusion Models for Synthetic Face Recognition](https://arxiv.org/pdf/2409.17576). NeurIPS2023. * indicates equal contribution.
+
+Miao Xiong, Ailin Deng, Pang Wei Koh, Jiaying Wu, Shen Li, Jianqing Xu, Bryan Hooi. Proximity-Informed Calibration for Deep Neural Networks. NeurIPS2023.
+
+Jiaying Wu, Shen Li, Ailin Deng, Miao Xiong, Bryan Hooi. Prompt-and-Align: Prompt-Based Social Alignment for Few-Shot Fake News Detection. CIKM2023.
+
+Shen Li*, Jianqing Xu*, Willjx Wu, Hewen Song, Shouhong Ding, Bryan Hooi. Probabilistic Knowledge Distillation of Face Ensembles. CVPR2023. * indicates equal contribution.
 
 Ailin Deng, Shen Li, Miao Xiong, Zhirui Chen, Bryan Hooi. [Trust but Verify: Using Self-Supervised Probing to Improve Trustworthiness](https://bhooi.github.io/papers/ssprobing_eccv2022.pdf). European Conference on Computer Vision 2022 (ECCV).
 
