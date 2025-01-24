@@ -36,8 +36,6 @@ Youfang Lin, **Shen Li**, Sujie Liu, Yuchang Chen. [An Efficient Approach to Mob
 
 ### News
 
-November, 2022. I will be joining Huawei in Beijing.
-
 September, 2022. I received my Ph.D. from National University of Singapore.
 
 July, 2022. I received KwaiStar Award.
